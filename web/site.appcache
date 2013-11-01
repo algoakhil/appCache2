@@ -1,0 +1,25 @@
+CACHE MANIFEST
+
+# 2013-07-18 v1.0.1
+
+CACHE:
+
+http://docs.sencha.com/extjs/4.2.1/extjs-build/resources/ext-theme-neptune/images/btn/btn-default-small-fbg.gif
+http://docs.sencha.com/extjs/4.2.1/extjs-build/resources/ext-theme-neptune/images/btn/btn-default-small-over-fbg.gif
+http://docs.sencha.com/extjs/4.2.1/extjs-build/resources/ext-theme-neptune/images/btn/btn-default-small-pressed-fbg.gif
+http://docs.sencha.com/extjs/4.2.1/extjs-build/resources/ext-theme-neptune/images/btn/btn-default-small-focus-fbg.gif
+
+
+http://docs.sencha.com/extjs/4.2.1/extjs-build/packages/ext-theme-neptune/build/ext-theme-neptune.js
+http://docs.sencha.com/extjs/4.2.1/extjs-build/resources/ext-theme-neptune/ext-theme-neptune-all-debug.css
+http://docs.sencha.com/extjs/4.2.1/extjs-build/resources/css/ext-all-neptune-debug.css
+http://docs.sencha.com/extjs/4.2.1/extjs-build/ext-all.js
+app.js
+
+
+# Resources that are "always" fetched from the server
+NETWORK:
+#*
+
+FALLBACK:
+#cacheError.html
